@@ -1,2 +1,2 @@
  var alert="hello word"
-alert("hello")
+alert("hello"
